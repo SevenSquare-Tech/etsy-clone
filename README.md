@@ -4,7 +4,7 @@
 
 This is a Node.js-based backend for a multi-vendor eCommerce platform inspired by Etsy. It provides APIs for authentication, product management, and vendor-based operations.
 
-[Step by Step Guide to Build an ETSY Clone with NodeJs.](https://www.sevensquaretech.com/develop-etsy-clone-nodejs-with-code/)
+[Full Guide to Develop an Etsy Clone with NodeJS.](https://www.sevensquaretech.com/develop-etsy-clone-nodejs-with-code/)
 
 ## 🚀 Features
 
